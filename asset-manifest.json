@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bug-free-octo-fiesta/static/css/main.3ff2d482.chunk.css",
+    "main.js": "/bug-free-octo-fiesta/static/js/main.acfdc14d.chunk.js",
+    "main.js.map": "/bug-free-octo-fiesta/static/js/main.acfdc14d.chunk.js.map",
+    "runtime-main.js": "/bug-free-octo-fiesta/static/js/runtime-main.7c67fc04.js",
+    "runtime-main.js.map": "/bug-free-octo-fiesta/static/js/runtime-main.7c67fc04.js.map",
+    "static/js/2.4b928bc2.chunk.js": "/bug-free-octo-fiesta/static/js/2.4b928bc2.chunk.js",
+    "static/js/2.4b928bc2.chunk.js.map": "/bug-free-octo-fiesta/static/js/2.4b928bc2.chunk.js.map",
+    "static/js/3.42c933d3.chunk.js": "/bug-free-octo-fiesta/static/js/3.42c933d3.chunk.js",
+    "static/js/3.42c933d3.chunk.js.map": "/bug-free-octo-fiesta/static/js/3.42c933d3.chunk.js.map",
+    "index.html": "/bug-free-octo-fiesta/index.html",
+    "static/css/main.3ff2d482.chunk.css.map": "/bug-free-octo-fiesta/static/css/main.3ff2d482.chunk.css.map",
+    "static/js/2.4b928bc2.chunk.js.LICENSE.txt": "/bug-free-octo-fiesta/static/js/2.4b928bc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c67fc04.js",
+    "static/js/2.4b928bc2.chunk.js",
+    "static/css/main.3ff2d482.chunk.css",
+    "static/js/main.acfdc14d.chunk.js"
+  ]
+}
